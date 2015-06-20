@@ -3,7 +3,7 @@
 /**
  * Class vineAuth
  *
- * @author Selçuk Çrlik
+ * @author Selçuk Çelik
  * @blog http://selcuk.in
  * @mail selcuk@msn.com
  * @date 18.6.2015
